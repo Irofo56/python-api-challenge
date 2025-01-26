@@ -8,7 +8,7 @@ __pycache__/
 
 #Keys
 api_keys.py
-
+.py
 # Distribution / packaging
 .Python
 build/
