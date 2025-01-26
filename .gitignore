@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-#Keys
+# Adding config.py file.
 api-keys.py
 .py
 # Distribution / packaging
